@@ -1,7 +1,8 @@
 ## Olá, muito prazer sou o Pedro Henrique 😎👍
 
 - 🎓 Cursando Análise e desenvolvimento de sistemas na FMU
-- 📕 Estudando atualmente React
+- 📕 Estudando atualmente React 
+- ✅ Formado no bootcamp da \Generation Brasil como Desenvolvedor Fullstack
 - ⚽ Sou fã de um futzinho
 - 😉 Pronomes: ele/dele
 
