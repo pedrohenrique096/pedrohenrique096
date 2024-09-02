@@ -1,7 +1,7 @@
 ## Olá, muito prazer sou o Pedro Henrique 😎👍
 
-- 🎓 Cursando Análise e desenvolvimento de sistemas na FMU
-- 📕 Estudando atualmente React 
+- 🎓 Cursando: Análise e desenvolvimento de sistemas na FMU
+- 📕 Estudando atualmente: Java e React 
 - ✅ Formado no bootcamp da Generation Brasil como Desenvolvedor Fullstack
 - 📧 Contate-me no e-mail: moreiraspedro96@gmail.com
 - ⚽ Sou fã de um futzinho
